@@ -1,3 +1,5 @@
+![Windows Dev Starter Kit — PowerShell tools for getting started](assets/windows-dev-starter-kit-hero.png)
+
 # Windows Dev Starter Kit: PowerShell Edition
 
 A beginner-friendly set of PowerShell commands for working with software projects on Windows. The commands make common project chores easier to remember: inspect a project, find files or text, package source, apply an update, build, test, and run.
